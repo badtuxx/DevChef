@@ -17,6 +17,7 @@ O Livro foi iniciado com cinco receitas adicionadas e testadas pelo Jeferson, as
 
 &nbsp;
 #### Receita 1
+- [Arroz dos Devs!](receitas/arroz.md)
 
 &nbsp;
 #### Receita 2
